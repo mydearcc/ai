@@ -1,5 +1,5 @@
 <p>
-<h1>发现好用的AI工具网站</h1>
+<h1>AI工具大全 | 实用高效AI工具导航合集</h1>
 这里收录了可用的 AI聊天助手、AI视频工具、AI图像工具、AI写作工具、AI办公学习、AI智能体、AI编程工具、AI开发平台、AI音频工具、AI设计工具...
 <br/><br/>
 发布网站：<a href="https://ai.fly63.com">https://ai.fly63.com</a>，欢迎收藏和分享；提交站点和信息反馈请前往<a href="https://github.com/mydearcc/ai/issues">Issues</a>。
@@ -595,4 +595,4 @@
 
 [GitHub](https://github.com/mydearcc/ai) | [提交站点](https://github.com/mydearcc/ai/issues) | [发布网站](https://ai.fly63.com) 
 
-> 最后更新：2026-09-29 16:05
+> 最后更新：2026-09-29 16:20
