@@ -224,9 +224,134 @@
 	    <td>专为电商打造的AI视觉内容创作平台</td>
 	    <td><a href="https://chaojihaomai.cgref.cn/s/4onyqooejx" target="_blank">链接</a></td>
 	</tr>
-</table>	
+</table>
+
+
+## AI写作工具
+
+<table>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f9df6c1cef5.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://wawawriter.cgref.cn/s/4onyrmmkjx" target="_blank">蛙蛙写作</a></td>
+	    <td>AI帮你写小说、剧本和内容创作工具</td>
+	    <td><a href="https://wawawriter.cgref.cn/s/4onyrmmkjx" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260504/69f8ae70c0c0c.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://speedai.com/?utm=cg&cgv=8qmnozyk29" target="_blank">SpeedAI</a></td>
+	    <td>专业的AIGC检测、降重降AI平台</td>
+	    <td><a href="https://speedai.com/?utm=cg&cgv=8qmnozyk29" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260707/6a4cee0ceb3ba.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://laper.cgref.cn/s/4onyq22ejx" target="_blank">Laper</a></td>
+	    <td>面向影视剧本创作的AI协作平台</td>
+	    <td><a href="https://laper.cgref.cn/s/4onyq22ejx" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f9573679903.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://xingyuexiezuo.com/?inviter=802730#/login" target="_blank">星月写作</a></td>
+	    <td>网络小说、 剧本创作者的AI增效工具</td>
+	    <td><a href="https://xingyuexiezuo.com/?inviter=802730#/login" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260517/6a09a61b7b834.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://kakaxing.com?invite-code=14YZ" target="_blank">咔咔猩</a></td>
+	    <td>短剧内容创作助手，剧本采购/评估/写作</td>
+	    <td><a href="https://kakaxing.com?invite-code=14YZ" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f95cc723020.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://app.qinyanai.com/?utm=cg&cgv=fly63" target="_blank">沁言学术</a></td>
+	    <td>AI辅助科研写作与管理平台</td>
+	    <td><a href="https://app.qinyanai.com/?utm=cg&cgv=fly63" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260815/6a7fa9529bc78.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://www.qqat.cn/?agent=ANAGDQ74" target="_blank">小猫零AI</a></td>
+	    <td>降低AI检测率的智能改写工具</td>
+	    <td><a href="https://www.qqat.cn/?agent=ANAGDQ74" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260528/6a1791067fae1.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://www.qianbixiezuo.com/?i=Vkv09" target="_blank">千笔写作</a></td>
+	    <td>AI论文写作指导与降AI降重平台</td>
+	    <td><a href="https://www.qianbixiezuo.com/?i=Vkv09" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260515/6a06d602035d6.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://ai.cailiaoxing.com/?invite_id=abb40a75-8ce1-46c2-ad00-cf24b46fdfa2" target="_blank">材料星</a></td>
+	    <td>专为秘书工作设计的AI写作工具</td>
+	    <td><a href="https://ai.cailiaoxing.com/?invite_id=abb40a75-8ce1-46c2-ad00-cf24b46fdfa2" target="_blank">链接</a></td>
+	</tr>
+</table>
+
+## AI智能体
+
+<table>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260510/6a000ac5dbaa9.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://loomy.cgref.cn/s/1oe71yqe23" target="_blank">Loomy</a></td>
+	    <td>讯飞推出的桌面级AI助理</td>
+	    <td><a href="https://loomy.cgref.cn/s/1oe71yqe23" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260510/6a0002db80939.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://openclaw.ai" target="_blank">OpenClaw</a></td>
+	    <td>开源免费的个人 AI 助手</td>
+	    <td><a href="https://openclaw.ai" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260911/6aa3a77127663.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://aionclaw.cgref.cn/fly63" target="_blank">AionClaw</a></td>
+	    <td>真正能做事的桌面 AI 智能体</td>
+	    <td><a href="https://aionclaw.cgref.cn/fly63" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f934291dd74.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://aipyaipy.cgref.cn/fly63" target="_blank">爱派AiPy</a></td>
+	    <td>开源可本地部署的超级AI智能体工厂</td>
+	    <td><a href="https://aipyaipy.cgref.cn/fly63" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260827/6a903d348723f.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://atoms.cgref.cn/s/3mnz8glno1" target="_blank">Atoms.dev</a></td>
+	    <td>用AI团队把想法变成能赚钱的产品</td>
+	    <td><a href="https://atoms.cgref.cn/s/3mnz8glno1" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f9310a85ee0.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://volcengine.cgref.cn/arkclaw-fly63" target="_blank">ArkClaw</a></td>
+	    <td>火山引擎推出的云端OpenClaw服务</td>
+	    <td><a href="https://volcengine.cgref.cn/arkclaw-fly63" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260528/6a179a7f7367a.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://cloud.tencent.com/act/pro/workbuddy?from=30254&cps_key=69d3f908d9d9641fc883da7a97cf1ea6" target="_blank">WorkBuddy</a></td>
+	    <td>腾讯AI智能体工作台，驱动电脑干活</td>
+	    <td><a href="https://cloud.tencent.com/act/pro/workbuddy?from=30254&cps_key=69d3f908d9d9641fc883da7a97cf1ea6" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f94febae97e.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://01agent.net/?utm=cg&cgv=q50k9g7ng6" target="_blank">01Agent</a></td>
+	    <td>AI图文创作智能体，生成/排版/发布</td>
+	    <td><a href="https://01agent.net/?utm=cg&cgv=q50k9g7ng6" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260831/6a9526fcc77e1.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://agentspace.cgref.cn/s/rpe3rq9e05" target="_blank">Agent Space</a></td>
+	    <td>AI模型订阅与云端Agent工作空间</td>
+	    <td><a href="https://agentspace.cgref.cn/s/rpe3rq9e05" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260524/6a1254b1138d8.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://www.aliyun.com/product/mulerun?source=5176.29345612&userCode=v225irxn" target="_blank">MuleRun</a></td>
+	    <td>自进化AI数字员工，你的私人AI</td>
+	    <td><a href="https://www.aliyun.com/product/mulerun?source=5176.29345612&userCode=v225irxn" target="_blank">链接</a></td>
+	</tr>
+</table>
 ---
 
 [GitHub](https://github.com/mydearcc/ai) | [提交站点](https://github.com/mydearcc/ai/issues) | [发布网站](https://ai.fly63.com) 
 
-> 最后更新：2026-09-29 15:10
+> 最后更新：2026-09-29 15:25
