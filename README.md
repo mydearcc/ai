@@ -474,9 +474,9 @@
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260827/6a8f8f245da3c.webp" alt="favicon" width="25" height="25"></td>
-	    <td><a href="https://www.aliyun.com/minisite/goods?userCode=v225irxn" target="_blank">阿里云</a></td>
-	    <td>领先的云计算与AI服务平台</td>
-	    <td><a href="https://www.aliyun.com/minisite/goods?userCode=v225irxn" target="_blank">链接</a></td>
+	    <td><a href="https://www.aliyun.com/product/bailian?source=5176.29345612&userCode=v225irxn" target="_blank">阿里云百炼</a></td>
+	    <td>一站式企业级大模型服务平台</td>
+	    <td><a href="https://www.aliyun.com/product/bailian?source=5176.29345612&userCode=v225irxn" target="_blank">链接</a></td>
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260812/6a7c0f3a4f438.webp" alt="favicon" width="25" height="25"></td>
