@@ -189,10 +189,10 @@
 
 <table>
 	<tr>
-	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f9a2ba352b8.webp" alt="favicon" width="25" height="25"></td>
-	    <td><a href="https://liblib.cgref.cn/fly63-image" target="_blank">LiblibAI</a></td>
-	    <td>一站式AI图像与视频创作平台</td>
-	    <td><a href="https://liblib.cgref.cn/fly63-image" target="_blank">链接</a></td>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260518/6a0a9b122a067.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://chuangkit.cgref.cn/fly63-haibao" target="_blank">创客贴</a></td>
+	    <td>快速制作海报、封面、PPT等各类视觉物料</td>
+	    <td><a href="https://chuangkit.cgref.cn/fly63-haibao" target="_blank">链接</a></td>
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260607/6a24b322d4165.webp" alt="favicon" width="25" height="25"></td>
@@ -247,6 +247,12 @@
 	    <td><a href="https://laper.cgref.cn/s/4onyq22ejx" target="_blank">Laper</a></td>
 	    <td>面向影视剧本创作的AI协作平台</td>
 	    <td><a href="https://laper.cgref.cn/s/4onyq22ejx" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260717/6a59846e4d376.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://xiangpiai.cgref.cn/s/4onyyl2njx" target="_blank">小橡皮AI</a></td>
+	    <td>AI文案去味与发布风险检测工具</td>
+	    <td><a href="https://xiangpiai.cgref.cn/s/4onyyl2njx" target="_blank">链接</a></td>
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f9573679903.webp" alt="favicon" width="25" height="25"></td>
@@ -324,6 +330,12 @@
 	    <td><a href="https://atoms.cgref.cn/s/3mnz8glno1" target="_blank">Atoms.dev</a></td>
 	    <td>用AI团队把想法变成能赚钱的产品</td>
 	    <td><a href="https://atoms.cgref.cn/s/3mnz8glno1" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20261021/6ad85423801a8.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://letsmagic.cgref.cn/s/1oe729mk23" target="_blank">超级麦吉</a></td>
+	    <td>企业级开源AI Agent，专属AI数字员工</td>
+	    <td><a href="https://letsmagic.cgref.cn/s/1oe729mk23" target="_blank">链接</a></td>
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260505/69f9310a85ee0.webp" alt="favicon" width="25" height="25"></td>
@@ -503,6 +515,12 @@
 	    <td><a href="https://s.qiniu.com/uEZzEn" target="_blank">链接</a></td>
 	</tr>
 	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260817/6a8296db6a57a.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://cephalon.cloud/share/register-landing?invite_id=9U5NPN" target="_blank">端脑云</a></td>
+	    <td>高性价比分布式AIGC算力平台</td>
+	    <td><a href="https://cephalon.cloud/share/register-landing?invite_id=9U5NPN" target="_blank">链接</a></td>
+	</tr>
+	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260514/6a0539f7d5cc5.webp" alt="favicon" width="25" height="25"></td>
 	    <td><a href="https://dataify-notg.pslink.cc/lm2b5aha" target="_blank">Dataify</a></td>
 	    <td>AI训练数据，API采集，Token供应</td>
@@ -542,6 +560,12 @@
 	    <td><a href="https://yinshu.cgref.cn/s/54onyjwnjx" target="_blank">音述AI</a></td>
 	    <td>用声音述说故事，AI音乐创作/分享</td>
 	    <td><a href="https://yinshu.cgref.cn/s/54onyjwnjx" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260510/69fffd24add98.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://douge.com/index?from=qYnmAf" target="_blank">逗哥配音</a></td>
+	    <td>短视频爆款解说AI配音工具</td>
+	    <td><a href="https://douge.com/index?from=qYnmAf" target="_blank">链接</a></td>
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260516/6a08345771f56.webp" alt="favicon" width="25" height="25"></td>
@@ -595,4 +619,4 @@
 
 [GitHub](https://github.com/mydearcc/ai) | [提交站点](https://github.com/mydearcc/ai/issues) | [发布网站](https://ai.fly63.com) 
 
-> 最后更新：2026-09-29 16:20
+> 最后更新：2026-09-29 16:05
