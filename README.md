@@ -123,6 +123,13 @@
 	    <td>会推理解析，能深度思考的 AI 助手</td>
 	    <td><a href="https://www.kimi.com" target="_blank">链接</a></td>
 	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20261113/6af6768f56e91.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://huishen.pslink.cc/x5zh4e13" target="_blank">HuiShen</a></td>
+	    <td>留学生和打工人的跨国沟通工具</td>
+	    <td><a href="https://huishen.pslink.cc/x5zh4e13" target="_blank">链接</a></td>
+	</tr>
+	
 </table>
 
 ## AI视频工具
@@ -217,6 +224,12 @@
 	    <td><a href="https://www.nanoai.cn/?from=invite&invite_id=100034340" target="_blank">NanoAI</a></td>
 	    <td>AI绘画与智能图片编辑平台</td>
 	    <td><a href="https://www.nanoai.cn/?from=invite&invite_id=100034340" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260511/6a01d352108a3.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://flowith.cgref.cn/s/jgemz7okmy" target="_blank">Flowith AI</a></td>
+	    <td>一站式无限画布 AI 创作平台</td>
+	    <td><a href="https://flowith.cgref.cn/s/jgemz7okmy" target="_blank">链接</a></td>
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260620/6a35e8db0f5aa.webp" alt="favicon" width="25" height="25"></td>
@@ -326,12 +339,6 @@
 	    <td><a href="https://aipyaipy.cgref.cn/fly63" target="_blank">链接</a></td>
 	</tr>
 	<tr>
-	    <td><img src="https://api.fly63.com/public/UploadsAi/20260827/6a903d348723f.webp" alt="favicon" width="25" height="25"></td>
-	    <td><a href="https://atoms.cgref.cn/s/3mnz8glno1" target="_blank">Atoms.dev</a></td>
-	    <td>用AI团队把想法变成能赚钱的产品</td>
-	    <td><a href="https://atoms.cgref.cn/s/3mnz8glno1" target="_blank">链接</a></td>
-	</tr>
-	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20261021/6ad85423801a8.webp" alt="favicon" width="25" height="25"></td>
 	    <td><a href="https://letsmagic.cgref.cn/s/1oe729mk23" target="_blank">超级麦吉</a></td>
 	    <td>企业级开源AI Agent，专属AI数字员工</td>
@@ -414,6 +421,25 @@
 	    <td>只需一句标题，AI一键设计精美PPT</td>
 	    <td><a href="https://www.islide.cc/landing?utm=cg&cgv=9qyk4vpk87" target="_blank">链接</a></td>
 	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20261019/6ad5bf7843437.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://xiaohuanxiong.com/work/home?utm_source=blmay51" target="_blank">商汤小浣熊</a></td>
+	    <td>能搞定工作的AI助手，面向真实工作场景</td>
+	    <td><a href="https://xiaohuanxiong.com/work/home?utm_source=blmay51" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20260814/6a7eed6715b92.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://zhiwen.cgref.cn/s/rpexqv9n90" target="_blank">讯飞智文</a></td>
+	    <td>AI一键生成PPT/Word文档</td>
+	    <td><a href="https://zhiwen.cgref.cn/s/rpexqv9n90" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20261014/6acef3a96b33d.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://www.iflytranslate.com/?from=XFFY2014" target="_blank">讯飞翻译</a></td>
+	    <td>支持文本/文档/音视频/同传/人工翻译</td>
+	    <td><a href="https://www.iflytranslate.com/?from=XFFY2014" target="_blank">链接</a></td>
+	</tr>
+	
 </table>
 
 ## AI编程工具
@@ -472,6 +498,12 @@
 	    <td><a href="https://cloud.tencent.com/act/cps/redirect?redirect=36961&cps_key=69d3f908d9d9641fc883da7a97cf1ea6" target="_blank">CodeBuddy</a></td>
 	    <td>腾讯云AI编程助手，智能加速开发</td>
 	    <td><a href="https://cloud.tencent.com/act/cps/redirect?redirect=36961&cps_key=69d3f908d9d9641fc883da7a97cf1ea6" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20261110/6af261d6ad745.webp" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://functorz.cgref.cn/s/59ngo6jkr2" target="_blank">函子Zion</a></td>
+	    <td>腾讯云AI编程助手，智能加速开发</td>
+	    <td><a href="https://functorz.cgref.cn/s/59ngo6jkr2" target="_blank">链接</a></td>
 	</tr>
 </table>
 
@@ -566,6 +598,12 @@
 	    <td><a href="https://douge.com/index?from=qYnmAf" target="_blank">逗哥配音</a></td>
 	    <td>短视频爆款解说AI配音工具</td>
 	    <td><a href="https://douge.com/index?from=qYnmAf" target="_blank">链接</a></td>
+	</tr>
+	<tr>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20261113/6af6d50b40c2a.we" alt="favicon" width="25" height="25"></td>
+	    <td><a href="https://soundviewai.cgref.cn/s/59ngo3okr2" target="_blank">SoundView</a></td>
+	    <td>视频翻译配音与出海本地化工具</td>
+	    <td><a href="https://soundviewai.cgref.cn/s/59ngo3okr2" target="_blank">链接</a></td>
 	</tr>
 	<tr>
 	    <td><img src="https://api.fly63.com/public/UploadsAi/20260516/6a08345771f56.webp" alt="favicon" width="25" height="25"></td>
