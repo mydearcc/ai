@@ -600,7 +600,7 @@
 	    <td><a href="https://douge.com/index?from=qYnmAf" target="_blank">链接</a></td>
 	</tr>
 	<tr>
-	    <td><img src="https://api.fly63.com/public/UploadsAi/20261113/6af6d50b40c2a.we" alt="favicon" width="25" height="25"></td>
+	    <td><img src="https://api.fly63.com/public/UploadsAi/20261113/6af6d50b40c2a.webp" alt="favicon" width="25" height="25"></td>
 	    <td><a href="https://soundviewai.cgref.cn/s/59ngo3okr2" target="_blank">SoundView</a></td>
 	    <td>视频翻译配音与出海本地化工具</td>
 	    <td><a href="https://soundviewai.cgref.cn/s/59ngo3okr2" target="_blank">链接</a></td>
